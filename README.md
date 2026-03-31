@@ -18,7 +18,10 @@ Design and development of an **interactive analytics platform** to monitor, anal
 The system provides:
 - centralized data analysis  
 - dynamic congestion monitoring  
-- decision-support visualizations  
+- decision-support visualizations
+-  Detect overloaded network ports  
+- Analyze subscriber impact on capacity  
+- Enable data-driven network optimization  
 
 ---
 
@@ -69,8 +72,11 @@ The application follows a **modular architecture** composed of:
 This design ensures scalability, maintainability, and extensibility.  
 
 ---
+# 📊 Network Port Congestion Analysis & Monitoring Dashboard
 
+## 🎥 Demo
 
+![Dashboard Demo](ezgif-25337c53901e3440.gif)
 
 ```bash
 python application_dashboard.py
