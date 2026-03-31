@@ -72,8 +72,6 @@ The application follows a **modular architecture** composed of:
 This design ensures scalability, maintainability, and extensibility.  
 
 ---
-# 📊 Network Port Congestion Analysis & Monitoring Dashboard
-
 ## 🎥 Demo
 
 ![Dashboard Demo](ezgif-25337c53901e3440.gif)
